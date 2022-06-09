@@ -21,6 +21,7 @@ if (isset($_SESSION['user_id'])) {
 <head>
   <meta charset="utf-8">
   <title>Pancake Machine</title>
+  <link rel="icon" type="image/png" href="assets/logo.png" />
   <link href="styles/style.css" rel="stylesheet" type="text/css">
   <link href="styles/pancakes.css" rel="stylesheet" type="text/css" />
   <link href="https://cdn.jsdelivr.net/npm/daisyui@2.15.2/dist/full.css" rel="stylesheet" type="text/css" />
