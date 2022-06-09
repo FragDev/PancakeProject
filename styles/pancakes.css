@@ -1,0 +1,70 @@
+ .plate {
+   width: 115px;
+   height: 7px;
+   margin: auto;
+   background: #d3ebea;
+   border-radius: 6px 6px 2rem 2rem;
+ }
+
+ .plate .plate-bottom {
+   content: '';
+   height: 50%;
+   width: 70px;
+   background: #c5e5e3;
+   border-radius: 0 0 1rem 1rem;
+   z-index: 1;
+ }
+
+ .butter {
+   width: 24px;
+   height: 6px;
+   background: #eadd4d;
+   margin: auto;
+   border-radius: 2px;
+   box-shadow: inset 0 -2px 0 2px rgba(85, 74, 35, .1);
+ }
+
+ .pancake {
+   width: 100px;
+   height: 7px;
+   background: #d8cb9f;
+   border-radius: 1rem;
+   box-shadow: inset 0 -2px 0 3px rgba(85, 74, 35, .1);
+   margin: auto;
+ }
+
+
+ .plate.small {
+   width: 60px;
+   height: 4px;
+   margin: auto;
+   background: #d3ebea;
+   border-radius: 6px 6px 2rem 2rem;
+ }
+
+ .plate .plate-bottom.small {
+   content: '';
+   height: 50%;
+   width: 35px;
+   background: #c5e5e3;
+   border-radius: 0 0 1rem 1rem;
+   z-index: 1;
+ }
+
+ .butter.small {
+   width: 12px;
+   height: 3px;
+   background: #eadd4d;
+   margin: auto;
+   border-radius: 2px;
+   box-shadow: inset 0 -2px 0 2px rgba(85, 74, 35, .1);
+ }
+
+ .pancake.small {
+   width: 50px;
+   height: 4px;
+   background: #d8cb9f;
+   border-radius: 1rem;
+   box-shadow: inset 0 -2px 0 3px rgba(85, 74, 35, .1);
+   margin: auto;
+ }
